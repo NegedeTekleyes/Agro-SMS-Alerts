@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { getFarmers } from '../utils/api';
+import { getFarmers } from '../../utils/api';
 import toast from 'react-hot-toast';
 
 // Define the Farmer interface

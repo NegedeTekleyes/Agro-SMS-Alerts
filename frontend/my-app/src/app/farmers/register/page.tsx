@@ -1,6 +1,6 @@
 // src/app/farmers/page.tsx
 import Link from 'next/link';
-import FarmerTable from '../../components/FarmerTable';
+import FarmerTable from '../../../components/farmers/FarmerTable';
 
 export default function Farmers() {
   return (
